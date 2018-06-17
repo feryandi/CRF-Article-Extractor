@@ -36,15 +36,15 @@ Compared to similar CRF experimentation on [Victor: the Web-Page Cleaning Tool](
 <tbody>
 <tr>
     <td style="text-align:left;">Precision</td>
-    <td style="text-align:left;">0.96</td>
+    <td style="text-align:left;">96</td>
 </tr>
 <tr>
     <td style="text-align:left;">Recall</td>
-    <td style="text-align:left;">0.86</td>
+    <td style="text-align:left;">86</td>
 </tr>
 <tr>
     <td style="text-align:left;">F1</td>
-    <td style="text-align:left;">0.91</td>
+    <td style="text-align:left;">91</td>
 </tr>
 <tr>
     <td style="text-align:left;">Support</td>
@@ -93,15 +93,15 @@ Compared to similar CRF experimentation on [Victor: the Web-Page Cleaning Tool](
 <tbody>
 <tr>
     <td style="text-align:left;">Precision</td>
-    <td style="text-align:left;">0.91</td>
+    <td style="text-align:left;">91</td>
 </tr>
 <tr>
     <td style="text-align:left;">Recall</td>
-    <td style="text-align:left;">0.93</td>
+    <td style="text-align:left;">93</td>
 </tr>
 <tr>
     <td style="text-align:left;">F1</td>
-    <td style="text-align:left;">0.92</td>
+    <td style="text-align:left;">92</td>
 </tr>
 <tr>
     <td style="text-align:left;">Support</td>
