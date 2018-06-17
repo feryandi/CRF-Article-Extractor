@@ -46,10 +46,6 @@ Compared to similar CRF experimentation on [Victor: the Web-Page Cleaning Tool](
     <td style="text-align:left;">F1</td>
     <td style="text-align:left;">91</td>
 </tr>
-<tr>
-    <td style="text-align:left;">Support</td>
-    <td style="text-align:left;">113</td>
-</tr>
 </tbody>
 </table>
 
@@ -102,10 +98,6 @@ Compared to similar CRF experimentation on [Victor: the Web-Page Cleaning Tool](
 <tr>
     <td style="text-align:left;">F1</td>
     <td style="text-align:left;">92</td>
-</tr>
-<tr>
-    <td style="text-align:left;">Support</td>
-    <td style="text-align:left;">76</td>
 </tr>
 </tbody>
 </table>
